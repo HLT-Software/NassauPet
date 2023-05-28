@@ -327,3 +327,46 @@ footer h3 {
     font-size: 200%;
   }
   
+  #promotions {
+    display: flex;
+    width: 100%;
+    padding: 5rem 3rem;
+    justify-content: space-around;
+}
+
+.promotions {
+    width: 240px;
+    height: 300px;
+    background-color: white;
+    justify-content: space-between ;
+    border-radius: 0.4rem; 
+    gap: 5rem;
+    list-style: none;
+    text-align: center;
+    box-shadow: 0px 4px 5px rgb(63, 63, 63);
+}
+
+.photo-promotions {
+    border-radius: 1rem;
+    padding: 0.5rem;
+    width: 160px;
+    height: 175px;
+    
+}
+.text-promotions {
+    padding: 1rem;
+}
+.text-promotions li {
+    padding: 1rem 0;
+    color: #00ff15;
+    font-size: 190;
+    text-align: left;
+    font-weight: 900;
+}
+
+.text-promotions h3 {
+    color: black;
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-align: left;
+}
