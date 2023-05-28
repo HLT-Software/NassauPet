@@ -358,10 +358,10 @@ footer h3 {
 }
 .text-promotions li {
     padding: 1rem 0;
-    color: #00ff15;
+    color: black;
     font-size: 190;
     text-align: left;
-    font-weight: 900;
+   
 }
 
 .text-promotions h3 {
